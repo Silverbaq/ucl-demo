@@ -1,2 +1,2 @@
-Hello, world!!
-This is somethign different!
+Hello - world!!
+This is something different!
